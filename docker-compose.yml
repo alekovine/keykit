@@ -1,0 +1,5 @@
+services:
+  keykit:
+    build: .
+    container_name: keykit
+    image: keykit:beta
