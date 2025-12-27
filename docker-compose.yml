@@ -3,3 +3,13 @@ services:
     build: .
     container_name: keykit
     image: keykit:beta
+    privileged: true
+    environment:
+      - XDG_RUNTIME_DIR=/tmp
+    volumes:
+      - /dev/snd:/dev/snd/ 
+      - ./samples/:/samples/
+      - /run/user/1000/pipewire-0:/tmp/pipewire-0
+    cap_add:
+      - SYS_NICE
+

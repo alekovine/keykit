@@ -1,6 +1,6 @@
 FROM rust:trixie
 WORKDIR /
-RUN apt-get update && apt-get install -y libasound2-dev
+RUN apt-get update && apt-get install -y libasound2-dev pipewire-alsa 
 RUN cargo new keykit
 WORKDIR /keykit
 RUN cargo add crossterm
