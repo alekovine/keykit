@@ -28,7 +28,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let paths = fs::read_dir("/samples/").unwrap();
 
-    let mut scores = HashMap::new();
+    let mut wav_key_map = HashMap::new();
 
     // get an output stream handle to the default physical sound device.
     // this keeps the audio playing in a separate thread.
@@ -48,7 +48,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
         // play the sound directly on the device
         let buffered_source = source.buffered();
-        scores.insert(path.as_ref().unwrap().file_name().to_str().unwrap().chars().next().unwrap(), buffered_source);
+        wav_key_map.insert(path.as_ref().unwrap().file_name().to_str().unwrap().chars().next().unwrap(), buffered_source);
 
     }
 
@@ -57,7 +57,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     enable_raw_mode()?;
 
     // print instructions
-    println!("press 'q' to exit");
+    println!("press '?' to exit");
 
     loop {
 
@@ -70,24 +70,16 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                 // we only care about keypress events (not keyrelease or repeat)
                 if key_event.kind == KeyEventKind::Press {
                     match key_event.code {
-                        KeyCode::Char('q') => {
+                        KeyCode::Char('?') => {
                             // exit the loop
                             break;                         
                         }
-                        KeyCode::Up => {
-                            println!("Up arrow pressed!");
-                        }
-                        KeyCode::Down => {
-                            println!("Down arrow pressed!");
-                        }
                         KeyCode::Char(c) => {
-                            println!("Key '{}' pressed!", c);
-                            let score_option = scores.get(&c);
-                            match score_option {
-                                Some(score) => stream_handle.mixer().add(score.clone()),
-                                None => println!("Blue team score not found."),
+                            let wav_option = wav_key_map.get(&c);
+                            match wav_option {
+                                Some(wav) => stream_handle.mixer().add(wav.clone()),
+                                None => {},
                             }
-                            //stream_handle.mixer().add(score_option.clone());
                         }
                         _ => {}
                     }

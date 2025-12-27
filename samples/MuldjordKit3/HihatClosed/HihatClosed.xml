@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument name="HihatClosed" version="2.0">
+ <samples>
+  <sample name="HihatClosed-1" power="0.00756559">
+   <audiofile filechannel="1" file="samples/1-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/1-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/1-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/1-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/1-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/1-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/1-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/1-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/1-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/1-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/1-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/1-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/1-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/1-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/1-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/1-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-2" power="0.0150404">
+   <audiofile filechannel="1" file="samples/2-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/2-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/2-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/2-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/2-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/2-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/2-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/2-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/2-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/2-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/2-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/2-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/2-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/2-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/2-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/2-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-3" power="0.0211981">
+   <audiofile filechannel="1" file="samples/3-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/3-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/3-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/3-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/3-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/3-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/3-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/3-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/3-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/3-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/3-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/3-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/3-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/3-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/3-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/3-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-4" power="0.0224125">
+   <audiofile filechannel="1" file="samples/4-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/4-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/4-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/4-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/4-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/4-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/4-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/4-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/4-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/4-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/4-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/4-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/4-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/4-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/4-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/4-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-5" power="0.0302951">
+   <audiofile filechannel="1" file="samples/5-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/5-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/5-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/5-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/5-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/5-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/5-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/5-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/5-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/5-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/5-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/5-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/5-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/5-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/5-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/5-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-6" power="0.0360786">
+   <audiofile filechannel="1" file="samples/6-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/6-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/6-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/6-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/6-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/6-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/6-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/6-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/6-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/6-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/6-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/6-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/6-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/6-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/6-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/6-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-7" power="0.0471341">
+   <audiofile filechannel="1" file="samples/7-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/7-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/7-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/7-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/7-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/7-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/7-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/7-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/7-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/7-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/7-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/7-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/7-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/7-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/7-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/7-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-8" power="0.0636775">
+   <audiofile filechannel="1" file="samples/8-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/8-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/8-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/8-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/8-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/8-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/8-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/8-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/8-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/8-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/8-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/8-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/8-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/8-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/8-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/8-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-9" power="0.0649266">
+   <audiofile filechannel="1" file="samples/9-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/9-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/9-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/9-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/9-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/9-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/9-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/9-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/9-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/9-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/9-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/9-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/9-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/9-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/9-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/9-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-10" power="0.102893">
+   <audiofile filechannel="1" file="samples/10-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/10-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/10-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/10-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/10-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/10-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/10-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/10-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/10-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/10-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/10-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/10-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/10-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/10-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/10-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/10-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-11" power="0.149673">
+   <audiofile filechannel="1" file="samples/11-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/11-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/11-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/11-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/11-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/11-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/11-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/11-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/11-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/11-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/11-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/11-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/11-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/11-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/11-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/11-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-12" power="0.169617">
+   <audiofile filechannel="1" file="samples/12-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/12-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/12-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/12-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/12-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/12-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/12-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/12-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/12-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/12-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/12-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/12-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/12-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/12-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/12-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/12-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-13" power="0.199725">
+   <audiofile filechannel="1" file="samples/13-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/13-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/13-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/13-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/13-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/13-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/13-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/13-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/13-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/13-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/13-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/13-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/13-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/13-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/13-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/13-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-14" power="0.215848">
+   <audiofile filechannel="1" file="samples/14-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/14-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/14-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/14-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/14-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/14-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/14-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/14-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/14-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/14-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/14-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/14-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/14-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/14-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/14-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/14-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-15" power="0.251027">
+   <audiofile filechannel="1" file="samples/15-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/15-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/15-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/15-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/15-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/15-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/15-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/15-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/15-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/15-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/15-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/15-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/15-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/15-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/15-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/15-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-16" power="0.259364">
+   <audiofile filechannel="1" file="samples/16-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/16-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/16-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/16-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/16-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/16-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/16-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/16-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/16-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/16-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/16-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/16-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/16-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/16-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/16-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/16-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-17" power="0.353269">
+   <audiofile filechannel="1" file="samples/17-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/17-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/17-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/17-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/17-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/17-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/17-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/17-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/17-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/17-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/17-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/17-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/17-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/17-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/17-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/17-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-18" power="0.418163">
+   <audiofile filechannel="1" file="samples/18-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/18-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/18-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/18-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/18-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/18-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/18-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/18-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/18-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/18-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/18-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/18-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/18-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/18-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/18-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/18-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-19" power="0.515879">
+   <audiofile filechannel="1" file="samples/19-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/19-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/19-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/19-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/19-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/19-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/19-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/19-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/19-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/19-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/19-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/19-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/19-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/19-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/19-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/19-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-20" power="0.772384">
+   <audiofile filechannel="1" file="samples/20-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/20-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/20-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/20-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/20-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/20-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/20-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/20-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/20-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/20-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/20-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/20-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/20-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/20-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/20-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/20-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-21" power="0.849001">
+   <audiofile filechannel="1" file="samples/21-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/21-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/21-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/21-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/21-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/21-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/21-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/21-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/21-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/21-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/21-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/21-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/21-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/21-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/21-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/21-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-22" power="0.903975">
+   <audiofile filechannel="1" file="samples/22-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/22-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/22-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/22-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/22-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/22-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/22-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/22-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/22-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/22-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/22-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/22-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/22-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/22-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/22-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/22-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-23" power="1.20361">
+   <audiofile filechannel="1" file="samples/23-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/23-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/23-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/23-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/23-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/23-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/23-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/23-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/23-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/23-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/23-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/23-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/23-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/23-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/23-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/23-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-24" power="1.29502">
+   <audiofile filechannel="1" file="samples/24-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/24-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/24-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/24-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/24-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/24-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/24-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/24-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/24-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/24-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/24-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/24-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/24-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/24-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/24-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/24-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-25" power="1.36773">
+   <audiofile filechannel="1" file="samples/25-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/25-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/25-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/25-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/25-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/25-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/25-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/25-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/25-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/25-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/25-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/25-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/25-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/25-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/25-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/25-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-26" power="1.90678">
+   <audiofile filechannel="1" file="samples/26-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/26-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/26-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/26-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/26-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/26-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/26-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/26-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/26-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/26-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/26-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/26-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/26-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/26-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/26-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/26-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-27" power="2.01563">
+   <audiofile filechannel="1" file="samples/27-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/27-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/27-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/27-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/27-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/27-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/27-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/27-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/27-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/27-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/27-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/27-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/27-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/27-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/27-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/27-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-28" power="2.15652">
+   <audiofile filechannel="1" file="samples/28-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/28-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/28-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/28-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/28-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/28-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/28-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/28-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/28-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/28-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/28-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/28-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/28-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/28-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/28-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/28-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+  <sample name="HihatClosed-29" power="2.38932">
+   <audiofile filechannel="1" file="samples/29-HihatClosed.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/29-HihatClosed.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/29-HihatClosed.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/29-HihatClosed.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/29-HihatClosed.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/29-HihatClosed.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/29-HihatClosed.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/29-HihatClosed.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/29-HihatClosed.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/29-HihatClosed.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/29-HihatClosed.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/29-HihatClosed.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/29-HihatClosed.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/29-HihatClosed.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/29-HihatClosed.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/29-HihatClosed.wav" channel="Trigger"/>
+  </sample>
+ </samples>
+</instrument>

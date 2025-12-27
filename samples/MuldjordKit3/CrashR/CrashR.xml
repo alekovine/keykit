@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument name="CrashR" version="2.0">
+ <samples>
+  <sample name="CrashR-1" power="0.0199317">
+   <audiofile filechannel="1" file="samples/1-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/1-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/1-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/1-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/1-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/1-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/1-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/1-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/1-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/1-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/1-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/1-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/1-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/1-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/1-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/1-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-2" power="0.0325416">
+   <audiofile filechannel="1" file="samples/2-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/2-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/2-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/2-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/2-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/2-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/2-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/2-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/2-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/2-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/2-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/2-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/2-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/2-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/2-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/2-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-3" power="0.0355781">
+   <audiofile filechannel="1" file="samples/3-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/3-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/3-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/3-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/3-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/3-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/3-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/3-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/3-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/3-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/3-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/3-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/3-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/3-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/3-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/3-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-4" power="0.05489">
+   <audiofile filechannel="1" file="samples/4-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/4-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/4-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/4-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/4-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/4-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/4-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/4-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/4-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/4-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/4-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/4-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/4-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/4-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/4-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/4-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-5" power="0.0801272">
+   <audiofile filechannel="1" file="samples/5-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/5-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/5-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/5-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/5-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/5-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/5-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/5-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/5-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/5-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/5-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/5-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/5-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/5-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/5-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/5-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-6" power="0.175757">
+   <audiofile filechannel="1" file="samples/6-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/6-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/6-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/6-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/6-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/6-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/6-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/6-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/6-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/6-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/6-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/6-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/6-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/6-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/6-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/6-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-7" power="0.24646">
+   <audiofile filechannel="1" file="samples/7-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/7-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/7-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/7-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/7-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/7-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/7-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/7-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/7-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/7-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/7-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/7-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/7-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/7-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/7-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/7-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-8" power="0.256333">
+   <audiofile filechannel="1" file="samples/8-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/8-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/8-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/8-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/8-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/8-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/8-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/8-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/8-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/8-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/8-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/8-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/8-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/8-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/8-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/8-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-9" power="0.333877">
+   <audiofile filechannel="1" file="samples/9-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/9-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/9-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/9-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/9-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/9-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/9-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/9-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/9-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/9-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/9-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/9-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/9-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/9-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/9-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/9-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-10" power="0.358809">
+   <audiofile filechannel="1" file="samples/10-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/10-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/10-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/10-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/10-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/10-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/10-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/10-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/10-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/10-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/10-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/10-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/10-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/10-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/10-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/10-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-11" power="0.770756">
+   <audiofile filechannel="1" file="samples/11-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/11-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/11-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/11-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/11-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/11-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/11-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/11-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/11-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/11-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/11-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/11-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/11-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/11-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/11-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/11-CrashR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="CrashR-12" power="0.892717">
+   <audiofile filechannel="1" file="samples/12-CrashR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/12-CrashR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/12-CrashR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/12-CrashR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/12-CrashR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/12-CrashR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/12-CrashR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/12-CrashR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/12-CrashR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/12-CrashR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/12-CrashR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/12-CrashR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/12-CrashR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/12-CrashR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/12-CrashR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/12-CrashR.wav" channel="Trigger"/>
+  </sample>
+ </samples>
+</instrument>

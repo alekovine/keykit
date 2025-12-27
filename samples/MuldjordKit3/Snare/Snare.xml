@@ -1,0 +1,1013 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument name="Snare" version="2.0">
+ <samples>
+  <sample name="Snare-1" power="0.305797">
+   <audiofile filechannel="1" file="samples/1-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/1-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/1-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/1-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/1-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/1-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/1-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/1-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/1-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/1-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/1-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/1-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/1-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/1-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/1-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/1-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-2" power="0.36136">
+   <audiofile filechannel="1" file="samples/2-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/2-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/2-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/2-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/2-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/2-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/2-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/2-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/2-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/2-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/2-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/2-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/2-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/2-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/2-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/2-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-3" power="0.569207">
+   <audiofile filechannel="1" file="samples/3-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/3-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/3-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/3-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/3-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/3-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/3-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/3-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/3-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/3-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/3-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/3-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/3-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/3-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/3-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/3-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-4" power="0.631907">
+   <audiofile filechannel="1" file="samples/4-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/4-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/4-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/4-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/4-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/4-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/4-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/4-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/4-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/4-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/4-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/4-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/4-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/4-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/4-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/4-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-5" power="0.707042">
+   <audiofile filechannel="1" file="samples/5-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/5-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/5-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/5-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/5-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/5-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/5-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/5-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/5-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/5-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/5-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/5-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/5-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/5-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/5-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/5-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-6" power="0.873401">
+   <audiofile filechannel="1" file="samples/6-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/6-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/6-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/6-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/6-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/6-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/6-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/6-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/6-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/6-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/6-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/6-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/6-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/6-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/6-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/6-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-7" power="1.07054">
+   <audiofile filechannel="1" file="samples/7-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/7-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/7-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/7-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/7-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/7-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/7-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/7-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/7-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/7-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/7-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/7-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/7-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/7-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/7-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/7-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-8" power="1.37471">
+   <audiofile filechannel="1" file="samples/8-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/8-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/8-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/8-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/8-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/8-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/8-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/8-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/8-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/8-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/8-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/8-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/8-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/8-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/8-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/8-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-9" power="1.53118">
+   <audiofile filechannel="1" file="samples/9-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/9-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/9-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/9-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/9-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/9-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/9-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/9-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/9-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/9-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/9-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/9-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/9-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/9-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/9-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/9-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-10" power="2.26585">
+   <audiofile filechannel="1" file="samples/10-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/10-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/10-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/10-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/10-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/10-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/10-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/10-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/10-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/10-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/10-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/10-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/10-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/10-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/10-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/10-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-11" power="2.30938">
+   <audiofile filechannel="1" file="samples/11-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/11-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/11-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/11-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/11-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/11-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/11-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/11-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/11-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/11-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/11-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/11-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/11-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/11-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/11-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/11-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-12" power="2.99433">
+   <audiofile filechannel="1" file="samples/12-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/12-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/12-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/12-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/12-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/12-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/12-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/12-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/12-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/12-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/12-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/12-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/12-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/12-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/12-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/12-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-13" power="4.36025">
+   <audiofile filechannel="1" file="samples/13-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/13-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/13-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/13-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/13-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/13-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/13-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/13-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/13-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/13-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/13-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/13-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/13-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/13-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/13-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/13-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-14" power="4.64036">
+   <audiofile filechannel="1" file="samples/14-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/14-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/14-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/14-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/14-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/14-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/14-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/14-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/14-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/14-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/14-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/14-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/14-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/14-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/14-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/14-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-15" power="4.8308">
+   <audiofile filechannel="1" file="samples/15-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/15-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/15-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/15-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/15-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/15-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/15-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/15-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/15-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/15-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/15-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/15-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/15-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/15-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/15-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/15-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-16" power="5.40814">
+   <audiofile filechannel="1" file="samples/16-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/16-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/16-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/16-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/16-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/16-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/16-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/16-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/16-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/16-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/16-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/16-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/16-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/16-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/16-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/16-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-17" power="5.70483">
+   <audiofile filechannel="1" file="samples/17-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/17-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/17-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/17-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/17-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/17-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/17-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/17-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/17-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/17-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/17-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/17-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/17-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/17-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/17-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/17-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-18" power="5.92748">
+   <audiofile filechannel="1" file="samples/18-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/18-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/18-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/18-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/18-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/18-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/18-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/18-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/18-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/18-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/18-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/18-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/18-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/18-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/18-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/18-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-19" power="6.03138">
+   <audiofile filechannel="1" file="samples/19-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/19-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/19-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/19-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/19-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/19-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/19-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/19-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/19-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/19-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/19-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/19-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/19-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/19-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/19-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/19-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-20" power="6.23486">
+   <audiofile filechannel="1" file="samples/20-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/20-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/20-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/20-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/20-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/20-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/20-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/20-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/20-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/20-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/20-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/20-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/20-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/20-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/20-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/20-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-21" power="6.30619">
+   <audiofile filechannel="1" file="samples/21-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/21-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/21-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/21-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/21-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/21-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/21-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/21-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/21-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/21-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/21-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/21-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/21-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/21-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/21-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/21-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-22" power="6.33706">
+   <audiofile filechannel="1" file="samples/22-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/22-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/22-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/22-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/22-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/22-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/22-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/22-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/22-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/22-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/22-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/22-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/22-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/22-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/22-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/22-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-23" power="6.55311">
+   <audiofile filechannel="1" file="samples/23-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/23-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/23-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/23-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/23-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/23-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/23-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/23-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/23-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/23-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/23-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/23-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/23-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/23-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/23-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/23-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-24" power="6.58167">
+   <audiofile filechannel="1" file="samples/24-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/24-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/24-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/24-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/24-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/24-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/24-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/24-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/24-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/24-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/24-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/24-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/24-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/24-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/24-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/24-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-25" power="6.77274">
+   <audiofile filechannel="1" file="samples/25-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/25-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/25-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/25-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/25-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/25-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/25-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/25-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/25-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/25-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/25-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/25-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/25-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/25-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/25-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/25-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-26" power="7.00581">
+   <audiofile filechannel="1" file="samples/26-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/26-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/26-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/26-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/26-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/26-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/26-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/26-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/26-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/26-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/26-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/26-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/26-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/26-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/26-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/26-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-27" power="7.48779">
+   <audiofile filechannel="1" file="samples/27-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/27-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/27-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/27-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/27-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/27-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/27-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/27-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/27-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/27-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/27-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/27-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/27-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/27-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/27-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/27-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-28" power="8.16259">
+   <audiofile filechannel="1" file="samples/28-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/28-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/28-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/28-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/28-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/28-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/28-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/28-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/28-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/28-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/28-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/28-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/28-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/28-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/28-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/28-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-29" power="9.17935">
+   <audiofile filechannel="1" file="samples/29-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/29-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/29-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/29-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/29-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/29-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/29-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/29-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/29-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/29-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/29-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/29-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/29-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/29-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/29-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/29-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-30" power="9.7179">
+   <audiofile filechannel="1" file="samples/30-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/30-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/30-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/30-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/30-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/30-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/30-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/30-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/30-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/30-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/30-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/30-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/30-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/30-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/30-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/30-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-31" power="9.78799">
+   <audiofile filechannel="1" file="samples/31-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/31-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/31-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/31-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/31-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/31-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/31-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/31-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/31-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/31-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/31-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/31-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/31-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/31-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/31-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/31-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-32" power="11.1643">
+   <audiofile filechannel="1" file="samples/32-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/32-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/32-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/32-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/32-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/32-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/32-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/32-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/32-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/32-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/32-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/32-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/32-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/32-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/32-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/32-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-33" power="14.0904">
+   <audiofile filechannel="1" file="samples/33-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/33-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/33-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/33-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/33-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/33-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/33-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/33-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/33-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/33-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/33-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/33-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/33-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/33-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/33-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/33-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-34" power="14.321">
+   <audiofile filechannel="1" file="samples/34-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/34-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/34-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/34-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/34-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/34-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/34-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/34-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/34-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/34-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/34-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/34-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/34-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/34-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/34-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/34-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-35" power="14.8544">
+   <audiofile filechannel="1" file="samples/35-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/35-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/35-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/35-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/35-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/35-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/35-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/35-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/35-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/35-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/35-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/35-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/35-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/35-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/35-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/35-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-36" power="15.6944">
+   <audiofile filechannel="1" file="samples/36-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/36-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/36-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/36-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/36-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/36-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/36-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/36-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/36-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/36-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/36-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/36-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/36-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/36-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/36-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/36-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-37" power="17.3388">
+   <audiofile filechannel="1" file="samples/37-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/37-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/37-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/37-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/37-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/37-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/37-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/37-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/37-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/37-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/37-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/37-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/37-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/37-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/37-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/37-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-38" power="17.5526">
+   <audiofile filechannel="1" file="samples/38-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/38-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/38-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/38-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/38-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/38-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/38-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/38-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/38-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/38-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/38-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/38-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/38-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/38-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/38-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/38-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-39" power="17.8183">
+   <audiofile filechannel="1" file="samples/39-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/39-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/39-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/39-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/39-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/39-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/39-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/39-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/39-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/39-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/39-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/39-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/39-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/39-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/39-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/39-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-40" power="18.2145">
+   <audiofile filechannel="1" file="samples/40-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/40-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/40-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/40-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/40-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/40-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/40-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/40-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/40-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/40-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/40-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/40-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/40-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/40-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/40-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/40-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-41" power="18.2979">
+   <audiofile filechannel="1" file="samples/41-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/41-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/41-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/41-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/41-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/41-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/41-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/41-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/41-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/41-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/41-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/41-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/41-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/41-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/41-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/41-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-42" power="20.9311">
+   <audiofile filechannel="1" file="samples/42-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/42-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/42-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/42-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/42-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/42-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/42-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/42-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/42-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/42-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/42-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/42-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/42-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/42-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/42-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/42-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-43" power="22.5291">
+   <audiofile filechannel="1" file="samples/43-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/43-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/43-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/43-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/43-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/43-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/43-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/43-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/43-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/43-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/43-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/43-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/43-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/43-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/43-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/43-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-44" power="24.5167">
+   <audiofile filechannel="1" file="samples/44-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/44-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/44-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/44-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/44-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/44-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/44-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/44-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/44-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/44-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/44-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/44-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/44-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/44-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/44-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/44-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-45" power="24.8321">
+   <audiofile filechannel="1" file="samples/45-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/45-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/45-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/45-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/45-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/45-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/45-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/45-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/45-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/45-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/45-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/45-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/45-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/45-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/45-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/45-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-46" power="25.0181">
+   <audiofile filechannel="1" file="samples/46-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/46-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/46-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/46-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/46-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/46-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/46-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/46-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/46-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/46-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/46-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/46-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/46-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/46-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/46-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/46-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-47" power="25.709">
+   <audiofile filechannel="1" file="samples/47-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/47-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/47-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/47-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/47-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/47-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/47-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/47-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/47-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/47-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/47-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/47-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/47-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/47-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/47-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/47-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-48" power="25.7123">
+   <audiofile filechannel="1" file="samples/48-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/48-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/48-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/48-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/48-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/48-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/48-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/48-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/48-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/48-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/48-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/48-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/48-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/48-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/48-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/48-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-49" power="27.0539">
+   <audiofile filechannel="1" file="samples/49-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/49-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/49-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/49-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/49-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/49-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/49-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/49-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/49-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/49-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/49-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/49-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/49-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/49-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/49-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/49-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-50" power="29.4949">
+   <audiofile filechannel="1" file="samples/50-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/50-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/50-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/50-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/50-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/50-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/50-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/50-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/50-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/50-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/50-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/50-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/50-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/50-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/50-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/50-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-51" power="34.4062">
+   <audiofile filechannel="1" file="samples/51-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/51-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/51-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/51-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/51-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/51-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/51-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/51-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/51-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/51-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/51-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/51-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/51-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/51-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/51-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/51-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-52" power="34.6752">
+   <audiofile filechannel="1" file="samples/52-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/52-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/52-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/52-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/52-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/52-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/52-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/52-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/52-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/52-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/52-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/52-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/52-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/52-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/52-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/52-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-53" power="42.406">
+   <audiofile filechannel="1" file="samples/53-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/53-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/53-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/53-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/53-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/53-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/53-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/53-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/53-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/53-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/53-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/53-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/53-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/53-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/53-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/53-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-54" power="43.9224">
+   <audiofile filechannel="1" file="samples/54-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/54-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/54-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/54-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/54-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/54-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/54-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/54-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/54-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/54-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/54-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/54-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/54-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/54-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/54-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/54-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-55" power="45.9974">
+   <audiofile filechannel="1" file="samples/55-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/55-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/55-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/55-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/55-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/55-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/55-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/55-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/55-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/55-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/55-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/55-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/55-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/55-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/55-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/55-Snare.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Snare-56" power="46.6326">
+   <audiofile filechannel="1" file="samples/56-Snare.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/56-Snare.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/56-Snare.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/56-Snare.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/56-Snare.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/56-Snare.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/56-Snare.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/56-Snare.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/56-Snare.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/56-Snare.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/56-Snare.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/56-Snare.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/56-Snare.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/56-Snare.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/56-Snare.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/56-Snare.wav" channel="Trigger"/>
+  </sample>
+ </samples>
+</instrument>

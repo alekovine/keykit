@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument name="RideL" version="2.0">
+ <samples>
+  <sample name="RideL-1" power="0.0292068">
+   <audiofile filechannel="1" file="samples/1-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/1-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/1-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/1-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/1-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/1-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/1-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/1-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/1-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/1-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/1-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/1-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/1-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/1-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/1-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/1-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-2" power="0.114363">
+   <audiofile filechannel="1" file="samples/2-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/2-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/2-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/2-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/2-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/2-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/2-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/2-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/2-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/2-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/2-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/2-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/2-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/2-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/2-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/2-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-3" power="0.165647">
+   <audiofile filechannel="1" file="samples/3-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/3-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/3-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/3-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/3-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/3-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/3-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/3-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/3-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/3-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/3-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/3-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/3-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/3-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/3-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/3-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-4" power="0.212293">
+   <audiofile filechannel="1" file="samples/4-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/4-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/4-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/4-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/4-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/4-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/4-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/4-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/4-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/4-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/4-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/4-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/4-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/4-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/4-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/4-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-5" power="0.274285">
+   <audiofile filechannel="1" file="samples/5-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/5-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/5-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/5-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/5-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/5-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/5-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/5-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/5-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/5-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/5-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/5-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/5-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/5-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/5-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/5-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-6" power="0.356231">
+   <audiofile filechannel="1" file="samples/6-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/6-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/6-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/6-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/6-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/6-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/6-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/6-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/6-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/6-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/6-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/6-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/6-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/6-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/6-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/6-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-7" power="0.390946">
+   <audiofile filechannel="1" file="samples/7-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/7-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/7-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/7-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/7-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/7-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/7-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/7-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/7-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/7-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/7-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/7-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/7-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/7-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/7-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/7-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-8" power="0.458743">
+   <audiofile filechannel="1" file="samples/8-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/8-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/8-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/8-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/8-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/8-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/8-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/8-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/8-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/8-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/8-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/8-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/8-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/8-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/8-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/8-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-9" power="0.57374">
+   <audiofile filechannel="1" file="samples/9-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/9-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/9-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/9-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/9-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/9-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/9-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/9-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/9-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/9-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/9-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/9-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/9-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/9-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/9-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/9-RideL.wav" channel="Trigger"/>
+  </sample>
+  <sample name="RideL-10" power="0.660591">
+   <audiofile filechannel="1" file="samples/10-RideL.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/10-RideL.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/10-RideL.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/10-RideL.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/10-RideL.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/10-RideL.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/10-RideL.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/10-RideL.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/10-RideL.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/10-RideL.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/10-RideL.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/10-RideL.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/10-RideL.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/10-RideL.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/10-RideL.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/10-RideL.wav" channel="Trigger"/>
+  </sample>
+ </samples>
+</instrument>

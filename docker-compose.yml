@@ -8,8 +8,12 @@ services:
       - XDG_RUNTIME_DIR=/tmp
     volumes:
       - /dev/snd:/dev/snd/ 
-      - ./samples/Phonk_/Kicks/Kick (1).wav:/samples/b
-      - ./samples/Phonk_/Snares/PHONKIN SNARE 1.wav:/samples/a
+      - ./samples/MuldjordKit3/Snare/samples/40-Snare.wav:/samples/x
+      - ./samples/MuldjordKit3/Snare/samples/40-Snare.wav:/samples/n
+      - ./samples/MuldjordKit3/HihatOpen/samples/20-HihatOpen.wav:/samples/a
+      - ./samples/MuldjordKit3/HihatOpen/samples/20-HihatOpen.wav:/samples/g
+      - ./samples/MuldjordKit3/CrashL/samples/9-CrashL.wav:/samples/q
+      - ./samples/MuldjordKit3/CrashL/samples/9-CrashL.wav:/samples/t
       - /run/user/1000/pipewire-0:/tmp/pipewire-0
     cap_add:
       - SYS_NICE

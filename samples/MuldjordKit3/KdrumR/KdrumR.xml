@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument name="KdrumR" version="2.0">
+ <samples>
+  <sample name="KdrumR-1" power="1.1692">
+   <audiofile filechannel="1" file="samples/1-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/1-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/1-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/1-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/1-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/1-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/1-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/1-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/1-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/1-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/1-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/1-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/1-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/1-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/1-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/1-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-2" power="1.96608">
+   <audiofile filechannel="1" file="samples/2-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/2-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/2-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/2-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/2-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/2-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/2-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/2-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/2-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/2-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/2-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/2-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/2-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/2-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/2-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/2-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-3" power="2.28442">
+   <audiofile filechannel="1" file="samples/3-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/3-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/3-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/3-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/3-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/3-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/3-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/3-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/3-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/3-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/3-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/3-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/3-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/3-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/3-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/3-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-4" power="5.48237">
+   <audiofile filechannel="1" file="samples/4-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/4-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/4-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/4-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/4-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/4-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/4-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/4-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/4-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/4-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/4-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/4-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/4-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/4-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/4-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/4-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-5" power="6.17518">
+   <audiofile filechannel="1" file="samples/5-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/5-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/5-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/5-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/5-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/5-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/5-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/5-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/5-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/5-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/5-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/5-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/5-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/5-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/5-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/5-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-6" power="7.00513">
+   <audiofile filechannel="1" file="samples/6-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/6-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/6-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/6-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/6-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/6-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/6-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/6-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/6-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/6-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/6-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/6-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/6-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/6-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/6-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/6-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-7" power="7.55982">
+   <audiofile filechannel="1" file="samples/7-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/7-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/7-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/7-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/7-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/7-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/7-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/7-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/7-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/7-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/7-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/7-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/7-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/7-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/7-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/7-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-8" power="7.92203">
+   <audiofile filechannel="1" file="samples/8-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/8-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/8-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/8-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/8-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/8-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/8-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/8-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/8-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/8-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/8-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/8-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/8-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/8-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/8-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/8-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-9" power="8.53939">
+   <audiofile filechannel="1" file="samples/9-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/9-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/9-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/9-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/9-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/9-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/9-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/9-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/9-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/9-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/9-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/9-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/9-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/9-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/9-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/9-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-10" power="11.1063">
+   <audiofile filechannel="1" file="samples/10-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/10-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/10-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/10-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/10-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/10-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/10-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/10-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/10-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/10-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/10-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/10-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/10-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/10-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/10-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/10-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-11" power="11.4527">
+   <audiofile filechannel="1" file="samples/11-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/11-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/11-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/11-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/11-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/11-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/11-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/11-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/11-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/11-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/11-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/11-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/11-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/11-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/11-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/11-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-12" power="11.8087">
+   <audiofile filechannel="1" file="samples/12-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/12-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/12-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/12-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/12-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/12-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/12-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/12-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/12-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/12-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/12-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/12-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/12-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/12-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/12-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/12-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-13" power="12.3614">
+   <audiofile filechannel="1" file="samples/13-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/13-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/13-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/13-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/13-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/13-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/13-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/13-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/13-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/13-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/13-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/13-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/13-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/13-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/13-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/13-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-14" power="13.7613">
+   <audiofile filechannel="1" file="samples/14-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/14-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/14-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/14-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/14-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/14-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/14-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/14-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/14-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/14-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/14-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/14-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/14-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/14-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/14-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/14-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-15" power="15.5716">
+   <audiofile filechannel="1" file="samples/15-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/15-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/15-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/15-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/15-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/15-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/15-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/15-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/15-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/15-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/15-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/15-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/15-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/15-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/15-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/15-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-16" power="16.2446">
+   <audiofile filechannel="1" file="samples/16-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/16-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/16-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/16-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/16-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/16-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/16-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/16-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/16-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/16-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/16-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/16-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/16-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/16-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/16-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/16-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-17" power="18.3684">
+   <audiofile filechannel="1" file="samples/17-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/17-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/17-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/17-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/17-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/17-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/17-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/17-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/17-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/17-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/17-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/17-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/17-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/17-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/17-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/17-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-18" power="18.4157">
+   <audiofile filechannel="1" file="samples/18-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/18-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/18-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/18-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/18-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/18-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/18-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/18-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/18-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/18-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/18-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/18-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/18-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/18-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/18-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/18-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-19" power="25.9123">
+   <audiofile filechannel="1" file="samples/19-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/19-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/19-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/19-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/19-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/19-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/19-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/19-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/19-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/19-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/19-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/19-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/19-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/19-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/19-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/19-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-20" power="27.8172">
+   <audiofile filechannel="1" file="samples/20-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/20-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/20-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/20-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/20-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/20-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/20-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/20-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/20-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/20-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/20-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/20-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/20-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/20-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/20-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/20-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-21" power="31.0444">
+   <audiofile filechannel="1" file="samples/21-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/21-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/21-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/21-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/21-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/21-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/21-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/21-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/21-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/21-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/21-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/21-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/21-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/21-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/21-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/21-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-22" power="31.3931">
+   <audiofile filechannel="1" file="samples/22-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/22-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/22-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/22-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/22-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/22-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/22-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/22-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/22-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/22-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/22-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/22-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/22-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/22-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/22-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/22-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-23" power="33.9014">
+   <audiofile filechannel="1" file="samples/23-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/23-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/23-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/23-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/23-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/23-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/23-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/23-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/23-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/23-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/23-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/23-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/23-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/23-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/23-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/23-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-24" power="35.0439">
+   <audiofile filechannel="1" file="samples/24-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/24-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/24-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/24-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/24-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/24-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/24-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/24-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/24-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/24-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/24-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/24-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/24-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/24-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/24-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/24-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-25" power="38.4247">
+   <audiofile filechannel="1" file="samples/25-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/25-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/25-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/25-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/25-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/25-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/25-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/25-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/25-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/25-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/25-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/25-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/25-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/25-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/25-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/25-KdrumR.wav" channel="Trigger"/>
+  </sample>
+  <sample name="KdrumR-26" power="38.876">
+   <audiofile filechannel="1" file="samples/26-KdrumR.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/26-KdrumR.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/26-KdrumR.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/26-KdrumR.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/26-KdrumR.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/26-KdrumR.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/26-KdrumR.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/26-KdrumR.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/26-KdrumR.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/26-KdrumR.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/26-KdrumR.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/26-KdrumR.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/26-KdrumR.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/26-KdrumR.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/26-KdrumR.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/26-KdrumR.wav" channel="Trigger"/>
+  </sample>
+ </samples>
+</instrument>

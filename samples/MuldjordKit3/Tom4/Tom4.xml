@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument name="Tom4" version="2.0">
+ <samples>
+  <sample name="Tom4-1" power="0.922485">
+   <audiofile filechannel="1" file="samples/1-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/1-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/1-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/1-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/1-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/1-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/1-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/1-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/1-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/1-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/1-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/1-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/1-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/1-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/1-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/1-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-2" power="1.17946">
+   <audiofile filechannel="1" file="samples/2-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/2-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/2-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/2-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/2-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/2-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/2-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/2-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/2-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/2-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/2-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/2-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/2-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/2-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/2-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/2-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-3" power="4.2953">
+   <audiofile filechannel="1" file="samples/3-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/3-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/3-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/3-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/3-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/3-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/3-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/3-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/3-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/3-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/3-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/3-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/3-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/3-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/3-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/3-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-4" power="6.92662">
+   <audiofile filechannel="1" file="samples/4-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/4-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/4-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/4-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/4-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/4-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/4-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/4-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/4-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/4-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/4-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/4-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/4-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/4-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/4-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/4-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-5" power="8.31971">
+   <audiofile filechannel="1" file="samples/5-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/5-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/5-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/5-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/5-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/5-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/5-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/5-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/5-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/5-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/5-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/5-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/5-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/5-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/5-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/5-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-6" power="9.92452">
+   <audiofile filechannel="1" file="samples/6-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/6-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/6-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/6-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/6-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/6-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/6-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/6-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/6-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/6-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/6-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/6-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/6-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/6-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/6-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/6-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-7" power="10.0789">
+   <audiofile filechannel="1" file="samples/7-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/7-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/7-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/7-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/7-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/7-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/7-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/7-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/7-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/7-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/7-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/7-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/7-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/7-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/7-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/7-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-8" power="11.9493">
+   <audiofile filechannel="1" file="samples/8-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/8-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/8-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/8-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/8-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/8-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/8-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/8-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/8-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/8-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/8-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/8-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/8-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/8-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/8-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/8-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-9" power="13.2245">
+   <audiofile filechannel="1" file="samples/9-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/9-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/9-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/9-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/9-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/9-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/9-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/9-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/9-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/9-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/9-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/9-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/9-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/9-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/9-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/9-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-10" power="14.1214">
+   <audiofile filechannel="1" file="samples/10-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/10-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/10-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/10-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/10-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/10-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/10-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/10-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/10-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/10-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/10-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/10-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/10-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/10-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/10-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/10-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-11" power="14.2129">
+   <audiofile filechannel="1" file="samples/11-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/11-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/11-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/11-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/11-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/11-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/11-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/11-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/11-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/11-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/11-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/11-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/11-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/11-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/11-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/11-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-12" power="16.047">
+   <audiofile filechannel="1" file="samples/12-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/12-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/12-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/12-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/12-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/12-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/12-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/12-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/12-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/12-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/12-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/12-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/12-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/12-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/12-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/12-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-13" power="16.5254">
+   <audiofile filechannel="1" file="samples/13-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/13-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/13-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/13-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/13-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/13-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/13-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/13-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/13-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/13-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/13-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/13-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/13-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/13-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/13-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/13-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-14" power="17.2268">
+   <audiofile filechannel="1" file="samples/14-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/14-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/14-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/14-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/14-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/14-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/14-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/14-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/14-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/14-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/14-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/14-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/14-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/14-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/14-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/14-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-15" power="17.3978">
+   <audiofile filechannel="1" file="samples/15-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/15-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/15-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/15-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/15-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/15-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/15-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/15-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/15-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/15-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/15-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/15-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/15-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/15-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/15-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/15-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-16" power="18.0564">
+   <audiofile filechannel="1" file="samples/16-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/16-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/16-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/16-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/16-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/16-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/16-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/16-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/16-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/16-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/16-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/16-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/16-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/16-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/16-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/16-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-17" power="18.2416">
+   <audiofile filechannel="1" file="samples/17-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/17-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/17-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/17-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/17-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/17-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/17-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/17-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/17-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/17-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/17-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/17-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/17-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/17-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/17-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/17-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-18" power="22.9891">
+   <audiofile filechannel="1" file="samples/18-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/18-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/18-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/18-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/18-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/18-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/18-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/18-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/18-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/18-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/18-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/18-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/18-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/18-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/18-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/18-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-19" power="23.5189">
+   <audiofile filechannel="1" file="samples/19-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/19-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/19-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/19-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/19-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/19-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/19-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/19-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/19-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/19-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/19-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/19-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/19-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/19-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/19-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/19-Tom4.wav" channel="Trigger"/>
+  </sample>
+  <sample name="Tom4-20" power="24.7475">
+   <audiofile filechannel="1" file="samples/20-Tom4.wav" channel="AmbL"/>
+   <audiofile filechannel="2" file="samples/20-Tom4.wav" channel="AmbR"/>
+   <audiofile filechannel="3" file="samples/20-Tom4.wav" channel="Hihat"/>
+   <audiofile filechannel="4" file="samples/20-Tom4.wav" channel="KdrumL"/>
+   <audiofile filechannel="5" file="samples/20-Tom4.wav" channel="KdrumR"/>
+   <audiofile filechannel="6" file="samples/20-Tom4.wav" channel="OHL"/>
+   <audiofile filechannel="7" file="samples/20-Tom4.wav" channel="OHR"/>
+   <audiofile filechannel="8" file="samples/20-Tom4.wav" channel="RideL"/>
+   <audiofile filechannel="9" file="samples/20-Tom4.wav" channel="RideR"/>
+   <audiofile filechannel="10" file="samples/20-Tom4.wav" channel="Snare_bottom"/>
+   <audiofile filechannel="11" file="samples/20-Tom4.wav" channel="Snare_top"/>
+   <audiofile filechannel="12" file="samples/20-Tom4.wav" channel="Tom1"/>
+   <audiofile filechannel="13" file="samples/20-Tom4.wav" channel="Tom2"/>
+   <audiofile filechannel="14" file="samples/20-Tom4.wav" channel="Tom3"/>
+   <audiofile filechannel="15" file="samples/20-Tom4.wav" channel="Tom4"/>
+   <audiofile filechannel="16" file="samples/20-Tom4.wav" channel="Trigger"/>
+  </sample>
+ </samples>
+</instrument>
