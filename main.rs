@@ -9,37 +9,8 @@ use std::thread;
 use std::time::Duration;
 use rodio::cpal::traits::{DeviceTrait, HostTrait};
 use rodio::cpal;
-
-/*
- * use rodio::{Decoder, OutputStream, Sink, source::Source};
-use std::fs::File;
-use std::io::BufReader;
-use std::thread;
-use std::time::Duration;
-
-fn main() {
-    // 2. Connect a Sink to the stream's mixer. The Sink manages playback.
-    let sink = Sink::connect_new(&stream_handle.mixer());
-
-    // 3. Load the WAV file.
-    // Make sure "your_sound.wav" is in the same directory or provide the full path.
-    let file = File::open("your_sound.wav").expect("Failed to open sound file");
-    let source = Decoder::new(BufReader::new(file)).expect("Failed to decode audio");
-
-    // 4. Add the sound source to the sink to start playback.
-    sink.append(source);
-
-    // 5. Keep the main thread alive until the sound finishes playing.
-    // The sound plays in a background thread managed by rodio.
-    println!("Playing sound...");
-    sink.sleep_until_end(); // Blocks until all appended sounds are done.
-    println!("Playback finished.");
-
-    // Alternatively, to just keep the program running for a duration:
-    // thread::sleep(Duration::from_secs(5)); // Sleep for 5 seconds
-    // stream_handle.stop(); // Manually stop if needed, though dropping it stops playback.
-}
-*/
+use std::fs;
+use std::collections::HashMap;
 
 fn list_devices() {
     let host = rodio::cpal::default_host();
@@ -55,6 +26,10 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     // HDA Intel PCH
     list_devices();
 
+    let paths = fs::read_dir("/samples/").unwrap();
+
+    let mut scores = HashMap::new();
+
     // get an output stream handle to the default physical sound device.
     // this keeps the audio playing in a separate thread.
     let stream_handle = OutputStreamBuilder::open_default_stream().expect("open default audio stream");
@@ -62,15 +37,21 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     // connect a sink to the stream's mixer. the sink manages playback.
     let sink = Sink::connect_new(&stream_handle.mixer());
 
-    // open a wav file
-    let file = File::open("/samples/Phonk_/Kicks/Kick (1).wav").expect("Failed to open sound file");
+    for path in paths {
+        println!("Name: {}", path.as_ref().unwrap().path().display());
 
-    // decode that sound file into a source
-    let source = Decoder::try_from(file).unwrap();
+        // open a wav file
+        let file = File::open(path.as_ref().unwrap().path()).expect("Failed to open sound file");
 
-    // play the sound directly on the device
-    let buffered_source = source.buffered();
-    stream_handle.mixer().add(buffered_source.clone());
+        // decode that sound file into a source
+        let source = Decoder::try_from(file).unwrap();
+
+        // play the sound directly on the device
+        let buffered_source = source.buffered();
+        scores.insert(path.as_ref().unwrap().file_name().to_str().unwrap().chars().next().unwrap(), buffered_source);
+
+    }
+
 
     // enable raw mode to get input without pressing enter
     enable_raw_mode()?;
@@ -101,7 +82,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                         }
                         KeyCode::Char(c) => {
                             println!("Key '{}' pressed!", c);
-                            stream_handle.mixer().add(buffered_source.clone());
+                            let score_option = scores.get(&c);
+                            match score_option {
+                                Some(score) => stream_handle.mixer().add(score.clone()),
+                                None => println!("Blue team score not found."),
+                            }
+                            //stream_handle.mixer().add(score_option.clone());
                         }
                         _ => {}
                     }
